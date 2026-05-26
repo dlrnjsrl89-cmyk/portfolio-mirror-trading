@@ -1,0 +1,17 @@
+# 환경변수
+.env
+*.env
+
+# 실제 데이터
+data/
+*.xls
+*.xlsx
+
+# API 키
+*secret*
+*token*
+*password*
+*credential*
+
+# 로컬 설정
+config/local*
